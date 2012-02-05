@@ -37,6 +37,7 @@ EM.run do
       done
     end
     http.callback do
+      p site
       done
     end
   end
