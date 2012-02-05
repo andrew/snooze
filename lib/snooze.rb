@@ -33,7 +33,7 @@ EM.run do
     http = EM::HttpRequest.new(site).get :connect_timeout => 60
 
     http.errback do |e|
-      email(site)
+      email(site, e)
       done
     end
     http.callback do
