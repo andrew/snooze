@@ -1,0 +1,30 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.2.6)
+    cookiejar (0.3.0)
+    em-http-request (1.0.1)
+      addressable (>= 2.2.3)
+      cookiejar
+      em-socksify
+      eventmachine (>= 1.0.0.beta.4)
+      http_parser.rb (>= 0.5.3)
+    em-socksify (0.1.0)
+      eventmachine
+    eventmachine (1.0.0.beta.4)
+    foreman (0.22.0)
+      term-ansicolor (~> 1.0.5)
+      thor (>= 0.13.6)
+    http_parser.rb (0.5.3)
+    remailer (0.4.21)
+      eventmachine
+    term-ansicolor (1.0.6)
+    thor (0.14.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  em-http-request
+  foreman
+  remailer
