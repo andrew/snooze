@@ -36,4 +36,4 @@ Report Issues/Feature requests on [GitHub Issues](http://github.com/andrew/snooz
 
 ## Copyright
 
-Copyright (c) 2012 Andrew Nesbitt. See [LICENSE](https://github.com/andrew/snooze/blob/master/LICENSE) for details.
+Copyright (c) 2013 Andrew Nesbitt. See [LICENSE](https://github.com/andrew/snooze/blob/master/LICENSE) for details.
